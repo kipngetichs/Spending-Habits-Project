@@ -1,4 +1,4 @@
-# Online Customer Spending Habits Analysis
+# Card Utilization Insights
 # Situation
 Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to introduce a new line of credit cards to expand its financial market reach. AtliQ Data Services, having learned about this initiative through an internal link, proposed to implement a project to analyze customer spending habits. However, the strategy director of Mitron Bank, Mr. Bashnir Rover, expressed skepticism and requested a pilot project using a sample dataset. This dataset comprises information on the online spending habits of 4,000 customers across five cities between Months of May and October which will be analyzed to demonstrate the potential effectiveness and insights of the proposed full-scale project.I collected this data from codebasics.io website where the challenge was conducted.
 # Task
