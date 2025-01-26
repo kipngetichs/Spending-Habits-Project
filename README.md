@@ -8,25 +8,28 @@ In this project, my actions as a data and business analyst involved leveraging E
 
 ![customer dashboard](https://github.com/user-attachments/assets/47a164e6-25e6-42eb-a1cf-8d2ba29ac88d)
 # Result
-The dashboard has been a tremendous success, providing valuable insights into the progress of customer spending habits. Some of the quantifiable results of the project include:
-- Provided data was between Months of May and October,their is increase in customer spending from May to the peak September while in October their is decline .
-- 35-45 and 25-34 these are Age Categories of customers that Spend the most than 21-24 and 45+
-- 53% of customer spenders are Male compared to Female.
-- Bills,Groceries,Electronics and Health & Wellness these are categories where Customers spends alot.
-- Among the 5 cities,Mumbai,Delhi NCR and Bengaluru are cities where most customers spends than Hyderabad and Chennai.
-- Salaried IT Employees,Freelancers and Salaried other Employees are the customer occupations where they spend mostly than Business Owners and Govement Employees.
-- 40% of customers uses Credit Card as payment type while 27% UPI,22% Debit Card and 10% Net Banking.
-
-The dashboard is Highly interesting and insightful as you can see above preview,I was able to make several insights by myself but this is the summary of the main.
-# Recommendations
-Based on the results of the project, the following recommendations are made to Mitron Bank:
-- Focus on Peak Spending Periods: With customer spending peaking in September, marketing efforts and promotional campaigns should be intensified during this period to maximize credit card usage and customer engagement.
-- Target High-Spending Age Groups: Given that the 35-45 and 25-34 age categories spend the most, tailor credit card products and marketing strategies to appeal specifically to these demographics. Personalized offers and benefits can attract and retain these high-value customers.
-- Gender-Specific Campaigns: Since 53% of the spenders are male, consider creating targeted campaigns that cater to male customers' spending preferences while also identifying strategies to engage more female customers.
-- Promote Popular Spending Categories: Focus promotional efforts on bills, groceries, electronics, and health & wellness, as these are the categories where customers spend the most. Offering cashback or reward points in these areas can drive higher credit card usage.
-- City-Specific Strategies: Concentrate marketing and customer acquisition strategies in Mumbai, Delhi NCR, and Bengaluru, where customer spending is highest. Tailored city-specific promotions and partnerships can enhance customer loyalty and spending.
-- Occupation-Based Targeting: Since salaried IT employees, freelancers, and other salaried employees are the highest spenders, design credit card products with features and benefits that cater to their financial needs and lifestyle. Special offers for these occupations can boost spending and card adoption.
-- Optimize Payment Methods: With 40% of customers using credit cards and significant usage of UPI and debit cards, ensure that the new line of credit cards offers seamless integration with these payment methods. Consider introducing incentives for credit card usage to shift more transactions from UPI and debit cards to credit cards.
+# Key Insights and Recommendations:
+1. Spending Trends:
+- Insight: Customer spending increased steadily from May, peaked in September, and declined in October.
+- Recommendation: Plan major promotions and marketing campaigns during the peak spending months to maximize revenue.
+2. Age Group Preferences:
+- Insight: Customers aged 35–45 and 25–34 are the highest spenders compared to younger (21–24) and older (45+) groups.
+- Recommendation: Focus marketing efforts and product offerings on the 25–45 age group to capture this segment's interest.
+3. Gender Spending Distribution:
+- Insight: Male customers make up 53% of total spending compared to 47% by females.
+- Recommendation: Design targeted campaigns for male customers while also exploring opportunities to boost female spending.
+4. Top Spending Categories:
+- Insight: Bills, Groceries, Electronics, and Health & Wellness are the most significant spending categories.
+- Recommendation: Offer category-specific promotions and loyalty programs to encourage repeat purchases.
+5. City-Wise Spending:
+- Insight: Mumbai, Delhi NCR, and Bengaluru have the highest spending, outperforming Hyderabad and Chennai.
+- Recommendation: Prioritize marketing and resource allocation in these high-performing cities to drive more sales.
+6. Occupation-Based Spending:
+- Insight: Salaried IT Employees, Freelancers, and other Salaried Employees spend more compared to Business Owners and Government Employees.
+- Recommendation: Create exclusive offers tailored for salaried professionals and freelancers to increase their engagement.
+7. Payment Preferences:
+- Insight: 40% of customers use Credit Cards, followed by UPI (27%), Debit Cards (22%), and Net Banking (10%).
+- Recommendation: Offer payment-specific incentives such as cashback or discounts for Credit Card and UPI users to encourage more transactions.
 # Reflection
 
 Reflecting on this project, the development of the "Online Customer Spending Habits Dashboard" for Mitron Bank has been both challenging and rewarding. Using Excel's advanced functionalities such as INDEX MATCH, data cleaning techniques, and pivot tables, I was able to transform raw data into meaningful insights. This process has highlighted the critical role of data analysis in strategic decision-making. The project's success in uncovering key spending patterns and customer demographics underscores the value of targeted marketing and personalized financial products. It has demonstrated how data-driven insights can guide effective business strategies, enhancing customer engagement and driving growth. This experience has further solidified my expertise in data analysis and reinforced the importance of meticulous data handling and insightful visualization in making informed business decisions.
